@@ -1,0 +1,7 @@
+The Perl class is help to replace your old style php constructor calling and its references.
+
+Usage:
+perl -I <path to ConstructorUpdater.pm> start.pl <from search path>
+
+If you don't add the first argument to the calling the default is the current directory.
+It searches the php files recursively and replace the actual code elements.

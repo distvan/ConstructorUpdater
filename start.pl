@@ -1,4 +1,3 @@
-# perl -I /home/distvan/GIT/ConstructorUpdater test.pl
 use ConstructorUpdater;
 
 if($#ARGV == 0)
